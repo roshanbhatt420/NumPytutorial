@@ -2,7 +2,7 @@
 # NumPy Tutorial
 
 ## Overview
-This contains the simple exercises and examples I completed as part of a NumPy tutorial. NumPy is a powerful library for numerical computing in Python, and this tutorial helped me understand its basic concepts and functionalities.
+This contains simple exercises and examples I completed as part of a NumPy tutorial. NumPy is a powerful library for numerical computing in Python, and this tutorial helped me understand its basic concepts and functionalities.
 
 ## Features
 - Basics of NumPy arrays and their operations
